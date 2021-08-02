@@ -5705,7 +5705,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ducno\\.nuget\\packages\\": {}
+    "C:\\Users\\ducno\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5716,6 +5717,9 @@
       "packagesPath": "C:\\Users\\ducno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ducno\\Documents\\pvd\\eshop.misa\\Server\\MISA.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\ducno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -74,7 +74,6 @@ E:\New folder\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
-C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.AssemblyReference.cache
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.Properties.Resources.resources
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.GenerateResource.cache
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
@@ -82,3 +81,4 @@ C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
 C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.AssemblyReference.cache

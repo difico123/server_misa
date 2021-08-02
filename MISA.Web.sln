@@ -3,13 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Web", "MISA.Web\MISA.Web.csproj", "{CE5B781B-2641-4839-8FE5-6E390867ACB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISA.Web", "MISA.Web\MISA.Web.csproj", "{CE5B781B-2641-4839-8FE5-6E390867ACB1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BCD4EFC5-0BA4-4B38-A7AC-861072E50F80} = {BCD4EFC5-0BA4-4B38-A7AC-861072E50F80}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.ApplicationCore", "MISA.ApplicationCore\MISA.ApplicationCore.csproj", "{143899DE-85B4-4DC5-8DF8-734A2C1429CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISA.ApplicationCore", "MISA.ApplicationCore\MISA.ApplicationCore.csproj", "{143899DE-85B4-4DC5-8DF8-734A2C1429CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Infrastructure", "MISA.Infrastructure\MISA.Infrastructure.csproj", "{BCD4EFC5-0BA4-4B38-A7AC-861072E50F80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISA.Infrastructure", "MISA.Infrastructure\MISA.Infrastructure.csproj", "{BCD4EFC5-0BA4-4B38-A7AC-861072E50F80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Common", "MISA.Common\MISA.Common.csproj", "{FF3F8702-4156-418D-A252-29A503BB0251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISA.Common", "MISA.Common\MISA.Common.csproj", "{FF3F8702-4156-418D-A252-29A503BB0251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

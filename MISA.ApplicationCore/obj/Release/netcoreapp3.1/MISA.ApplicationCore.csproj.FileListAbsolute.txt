@@ -1,0 +1,14 @@
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\bin\Release\netcoreapp3.1\MISA.ApplicationCore.deps.json
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\bin\Release\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\bin\Release\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\bin\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\bin\Release\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\bin\Release\netcoreapp3.1\MISA.Common.pdb
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\bin\Release\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\obj\Release\netcoreapp3.1\MISA.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\obj\Release\netcoreapp3.1\MISA.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\obj\Release\netcoreapp3.1\MISA.ApplicationCore.AssemblyInfo.cs
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\obj\Release\netcoreapp3.1\MISA.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\obj\Release\netcoreapp3.1\MISA.ApplicationCore.csproj.CopyComplete
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\obj\Release\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.ApplicationCore\obj\Release\netcoreapp3.1\MISA.ApplicationCore.pdb

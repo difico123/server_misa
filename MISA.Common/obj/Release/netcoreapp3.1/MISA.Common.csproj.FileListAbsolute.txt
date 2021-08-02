@@ -1,0 +1,11 @@
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\bin\Release\netcoreapp3.1\MISA.Common.deps.json
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\bin\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\bin\Release\netcoreapp3.1\MISA.Common.pdb
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.csproj.AssemblyReference.cache
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.Properties.Resources.resources
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.csproj.GenerateResource.cache
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\ducno\Documents\pvd\eshop.misa\Server\MISA.Common\obj\Release\netcoreapp3.1\MISA.Common.pdb
